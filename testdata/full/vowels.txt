@@ -1,0 +1,7 @@
+>IgnoreSet:uw
+>SentenceBoundary:[.!?\-']
+
+# diphthongs
+ei au eu ae uw io wy
+# vowels
+e y w i a o u ï

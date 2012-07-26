@@ -1,0 +1,21 @@
+﻿# Syllable file for SylWord, Welsh
+#
+# FORMAT
+# -------
+# * Lines beginning with # are ignored, as are blank lines
+# * Lines containing whitespace-separated character groups are used
+#   as sets of syllable tokens
+# * Each line overrides those above, on a first-found order
+#   this means it's wise to put triphthongs first, then dipthongs, etc
+# * Use UTF-8 encoding.
+
+
+# triphthongs
+iae iai iau iaw iei ieu iew ioe wae wai wau waw wei weu wew wiw wyw
+
+# diphthongs
+ae ai au aw ei eu ew ey iw oe oi ow uw wy yw ia ie io iy wa we wi wo wu 
+
+
+# vowels
+a e i o u w y â ê î ô û ŵ ŷ ï á é ẃ à ẁ
